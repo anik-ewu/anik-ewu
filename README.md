@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sabbir 👋
 
-<!--
-**anik-ewu/anik-ewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | .NET | Angular | Azure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Working on backend & cloud (Azure)
+- 🚀 Building scalable apps with .NET
+- 📈 Exploring data science
+
+---
+
+## Tech Stack
+- Backend: .NET, Node.js
+- Frontend: Angular
+- Cloud: Azure
+- Database: Cosmos DB, SQL
+
+---
+
+## Projects
+- 🔹 Project 1 – short one-line description
+- 🔹 Project 2 – short one-line description
+
+---
+
+## Contact
+- LinkedIn: (your link)
+- Email: (optional)
